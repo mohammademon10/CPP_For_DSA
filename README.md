@@ -57,7 +57,7 @@ Before you begin, ensure you have met the following requirements:
    ./program
    ```
 
-## 📁 Project Structure
+## 📁 Complete Directory Tree
 
 ```
 C++_For_DSA/
